@@ -1,4 +1,4 @@
-https://bolek121.github.io
+My home page: https://bolek121.github.io
 
 - 🌱 I’m currently learning algebra
 - 🤔 I’m looking for help with AGH
