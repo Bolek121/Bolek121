@@ -1,3 +1,5 @@
+https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused#code
+https://github.com/Bolek121/DifFace
 My home page: https://bolek121.github.io
 
 - 🌱 I’m currently learning algebra
