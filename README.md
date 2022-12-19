@@ -7,5 +7,5 @@ My home page: https://bolek121.github.io
 - 🌱 I’m currently learning algebra
 - 🤔 I’m looking for help with AGH
 - 📫 How to reach me: 123456789
-- 😄 Pronouns: it
+- 😄 Pronouns: me
 - ⚡ Fun fact: 100 percent of people who drink water die
