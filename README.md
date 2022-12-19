@@ -1,6 +1,6 @@
-https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused#code
+papers with code: https://paperswithcode.com/paper/difface-blind-face-restoration-with-diffused#code
 
-https://github.com/Bolek121/DifFace
+repozytorium difFace: https://github.com/Bolek121/DifFace
 
 My home page: https://bolek121.github.io
 
